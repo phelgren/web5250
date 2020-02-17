@@ -6,3 +6,4 @@ In 2002 I was in the process of designing an HTML based menuing system that woul
 
 After a couple of decades, I assumed the idea and the need for a HTML based 5250 emulator was dead.  I got the occational ping about the project but then I got a few back and forth emails from the midrange.com list that I subscribe to and I blew the dust off the code and updated it (a bit).  I will continue to say that I am not happy with it.  There are still some function key and cursor issues. I don't fully understand the data flows (sometimes it seems field values are cached).  Field references are sequential (FLD1, FLD2 and so on)  so I think those values sometimes make their way back to the UI after an error.  So, it is very much a work in progress.
 
+##### NOTE: The keyboard artifacts are leftovers from an attempt I was going to make to be able to map keys 5250 style.  I never really got it going....
