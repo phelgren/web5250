@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE web-app PUBLIC "-//Sun Microsystems, Inc.//DTD Web Application 2.2//EN" "http://java.sun.com/j2ee/dtds/web-app_2_2.dtd">
+<web-app>
+  <servlet>
+    <servlet-name>servlet5250</servlet-name>
+    <servlet-class>org.ossgarden.app.Servlet5250</servlet-class>
+    <init-param>
+      <param-name>Host Name</param-name>
+      <param-value>10.0.10.205</param-value>
+    </init-param>
+  </servlet>
+   <servlet-mapping>
+    <servlet-name>servlet5250</servlet-name>
+    <url-pattern>/Servlet5250</url-pattern>
+  </servlet-mapping>
+</web-app>

@@ -1,0 +1,64 @@
+ /* color styles. */
+ body { font-family: monospace; }
+.black {color: black;} 
+.green {color: #00FF00;} 
+.green-ul {color: #00FF00;text-decoration: underline} 
+.green-rv {background-color: #00FF00;color: black;} 
+.green-rv-ul {background-color: #00FF00;color: black;text-decoration: underline;} 
+.white {color: white;} 
+.white-ul {color: white;text-decoration: underline} 
+.white-rv {background-color: white;color: black;} 
+.red {color: red;} 
+.red-ul {color: red;text-decoration: underline} 
+.red-rv {background-color: red;color: black;} 
+.red-rv-ul {background-color: red;color: black;text-decoration: underline} 
+.blue {color: rgb(140,120,255);} 
+.blue-ul {color: rgb(140,120,255);text-decoration: underline} 
+.blue-rv {background-color: rgb(140,120,255);color: black;} 
+.blue-rv-ul {background-color: rgb(140,120,255);color: black;text-decoration: underline} 
+.pink {color: pink;} 
+.pink-ul {color: pink;text-decoration: underline} 
+.pink-rv {background-color: pink;color: black;} 
+.pink-rv-ul {background-color: pink;color: black;text-decoration: underline;} 
+.yellow {color: yellow;} 
+.yellow-ul {color: yellow;text-decoration: underline} 
+.yellow-rv {background-color: yellow;color: black;} 
+.turq {color: turquoise;} 
+.turq-ul {color: turquoise;text-decoration: underline} 
+.turq-cs {color: turquoise;border-left: dashed; border-left-width: 1px;border-right: dashed; border-right-width: 1px} 
+.turq-rv {background-color: turquoise;color: black;} 
+.turq-rv-ul {background-color: turquoise;color: black;text-decoration: underline;} 
+.nondisp {background-color: black;color: black;} 
+.enterButton{display: none;}
+.textbox32 {font-family: courier new, courier, mono; font-size: 15px; background: transparent; border-top-width: 0px;	border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-top-style: none; border-right-style: none; border-bottom-style: solid; border-left-style: none; border-bottom-color: #00CC33; color: #00CC33;}
+.textbox33 {font-family: courier new, courier, mono; font-size: 15px; background: transparent; border-top-width: 0px;	border-right-width: 0px; border-bottom-width: thin; border-left-width: 0px; border-top-style: none; border-right-style: none; border-bottom-style: solid; border-left-style: none; border-bottom-color: #00CC33; color: #00CC33;}
+.textbox34 {font-family: courier new, courier, mono; font-size: 15px; background: transparent; border-top-width: 0px;	border-right-width: 0px; border-bottom-width: thin; border-left-width: 0px; border-top-style: none; border-right-style: none; border-bottom-style: solid; border-left-style: none; border-bottom-color: #00CC33; color: #00CC33;}
+.textbox35 {font-family: courier new, courier, mono; font-size: 15px; background: transparent; border-top-width: 0px;	border-right-width: 0px; border-bottom-width: thin; border-left-width: 0px; border-top-style: none; border-right-style: none; border-bottom-style: solid; border-left-style: none; border-bottom-color: #00CC33; color: #00CC33;}
+.textbox36 {font-family: courier new, courier, mono; font-size: 15px; background: transparent; border-top-width: 0px;	border-right-width: 0px; border-bottom-width: thin; border-left-width: 0px; border-top-style: none; border-right-style: none; border-bottom-style: solid; border-left-style: none; border-bottom-color: #00CC33; color: #00CC33;}
+.textbox37 {font-family: courier new, courier, mono; font-size: 15px; background: transparent; border-top-width: 0px;	border-right-width: 0px; border-bottom-width: thin; border-left-width: 0px; border-top-style: none; border-right-style: none; border-bottom-style: solid; border-left-style: none; border-bottom-color: #00CC33; color: #00CC33;}
+.textbox38 {font-family: courier new, courier, mono; font-size: 15px; background: transparent; border-top-width: 0px;	border-right-width: 0px; border-bottom-width: thin; border-left-width: 0px; border-top-style: none; border-right-style: none; border-bottom-style: solid; border-left-style: none; border-bottom-color: #00CC33; color: #00CC33;}
+.textbox39 {font-family: courier new, courier, mono; font-size: 15px; background: transparent; border-top-width: 0px;	border-right-width: 0px; border-bottom-width: thin; border-left-width: 0px; border-top-style: none; border-right-style: none; border-bottom-style: solid; border-left-style: none; border-bottom-color: #00CC33; color: #00CC33;}
+.textbox40 {font-family: courier new, courier, mono; font-size: 15px; background: transparent; border-top-width: 0px;	border-right-width: 0px; border-bottom-width: thin; border-left-width: 0px; border-top-style: none; border-right-style: none; border-bottom-style: solid; border-left-style: none; border-bottom-color: #00CC33; color: #00CC33;}
+.textbox41 {font-family: courier new, courier, mono; font-size: 15px; background: transparent; border-top-width: 0px;	border-right-width: 0px; border-bottom-width: thin; border-left-width: 0px; border-top-style: none; border-right-style: none; border-bottom-style: solid; border-left-style: none; border-bottom-color: #00CC33; color: #00CC33;}
+.textbox42 {font-family: courier new, courier, mono; font-size: 15px; background: transparent; border-top-width: 0px;	border-right-width: 0px; border-bottom-width: thin; border-left-width: 0px; border-top-style: none; border-right-style: none; border-bottom-style: solid; border-left-style: none; border-bottom-color: #00CC33; color: #00CC33;}
+.textbox43 {font-family: courier new, courier, mono; font-size: 15px; background: transparent; border-top-width: 0px;	border-right-width: 0px; border-bottom-width: thin; border-left-width: 0px; border-top-style: none; border-right-style: none; border-bottom-style: solid; border-left-style: none; border-bottom-color: #00CC33; color: #00CC33;}
+.textbox44 {font-family: courier new, courier, mono; font-size: 15px; background: transparent; border-top-width: 0px;	border-right-width: 0px; border-bottom-width: thin; border-left-width: 0px; border-top-style: none; border-right-style: none; border-bottom-style: solid; border-left-style: none; border-bottom-color: #00CC33; color: #00CC33;}
+.textbox45 {font-family: courier new, courier, mono; font-size: 15px; background: transparent; border-top-width: 0px;	border-right-width: 0px; border-bottom-width: thin; border-left-width: 0px; border-top-style: none; border-right-style: none; border-bottom-style: solid; border-left-style: none; border-bottom-color: #00CC33; color: #00CC33;}
+.textbox46 {font-family: courier new, courier, mono; font-size: 15px; background: transparent; border-top-width: 0px;	border-right-width: 0px; border-bottom-width: thin; border-left-width: 0px; border-top-style: none; border-right-style: none; border-bottom-style: solid; border-left-style: none; border-bottom-color: #00CC33; color: #00CC33;}
+.textbox47 {font-family: courier new, courier, mono; font-size: 15px; background: transparent; border-top-width: 0px;	border-right-width: 0px; border-bottom-width: thin; border-left-width: 0px; border-top-style: none; border-right-style: none; border-bottom-style: solid; border-left-style: none; border-bottom-color: #00CC33; color: #00CC33;}
+.textbox48 {font-family: courier new, courier, mono; font-size: 15px; background: transparent; border-top-width: 0px;	border-right-width: 0px; border-bottom-width: thin; border-left-width: 0px; border-top-style: none; border-right-style: none; border-bottom-style: solid; border-left-style: none; border-bottom-color: #00CC33; color: #00CC33;}
+.textbox49 {font-family: courier new, courier, mono; font-size: 15px; background: transparent; border-top-width: 0px;	border-right-width: 0px; border-bottom-width: thin; border-left-width: 0px; border-top-style: none; border-right-style: none; border-bottom-style: solid; border-left-style: none; border-bottom-color: #00CC33; color: #00CC33;}
+.textbox50 {font-family: courier new, courier, mono; font-size: 15px; background: transparent; border-top-width: 0px;	border-right-width: 0px; border-bottom-width: thin; border-left-width: 0px; border-top-style: none; border-right-style: none; border-bottom-style: solid; border-left-style: none; border-bottom-color: #00CC33; color: #00CC33;}
+.textbox51 {font-family: courier new, courier, mono; font-size: 15px; background: transparent; border-top-width: 0px;	border-right-width: 0px; border-bottom-width: thin; border-left-width: 0px; border-top-style: none; border-right-style: none; border-bottom-style: solid; border-left-style: none; border-bottom-color: #00CC33; color: #00CC33;}
+.textbox52 {font-family: courier new, courier, mono; font-size: 15px; background: transparent; border-top-width: 0px;	border-right-width: 0px; border-bottom-width: thin; border-left-width: 0px; border-top-style: none; border-right-style: none; border-bottom-style: solid; border-left-style: none; border-bottom-color: #00CC33; color: #00CC33;}
+.textbox53 {font-family: courier new, courier, mono; font-size: 15px; background: transparent; border-top-width: 0px;	border-right-width: 0px; border-bottom-width: thin; border-left-width: 0px; border-top-style: none; border-right-style: none; border-bottom-style: solid; border-left-style: none; border-bottom-color: #00CC33; color: #00CC33;}
+.textbox54 {font-family: courier new, courier, mono; font-size: 15px; background: transparent; border-top-width: 0px;	border-right-width: 0px; border-bottom-width: thin; border-left-width: 0px; border-top-style: none; border-right-style: none; border-bottom-style: solid; border-left-style: none; border-bottom-color: #00CC33; color: #00CC33;}
+.textbox55 {font-family: courier new, courier, mono; font-size: 15px; background: transparent; border-top-width: 0px;	border-right-width: 0px; border-bottom-width: thin; border-left-width: 0px; border-top-style: none; border-right-style: none; border-bottom-style: solid; border-left-style: none; border-bottom-color: #00CC33; color: #00CC33;}
+.textbox56 {font-family: courier new, courier, mono; font-size: 15px; background: transparent; border-top-width: 0px;	border-right-width: 0px; border-bottom-width: thin; border-left-width: 0px; border-top-style: none; border-right-style: none; border-bottom-style: solid; border-left-style: none; border-bottom-color: #00CC33; color: #00CC33;}
+.textbox57 {font-family: courier new, courier, mono; font-size: 15px; background: transparent; border-top-width: 0px;	border-right-width: 0px; border-bottom-width: thin; border-left-width: 0px; border-top-style: none; border-right-style: none; border-bottom-style: solid; border-left-style: none; border-bottom-color: #00CC33; color: #00CC33;}
+.textbox58 {font-family: courier new, courier, mono; font-size: 15px; background: transparent; border-top-width: 0px;	border-right-width: 0px; border-bottom-width: thin; border-left-width: 0px; border-top-style: none; border-right-style: none; border-bottom-style: solid; border-left-style: none; border-bottom-color: #00CC33; color: #00CC33;}
+.textbox59 {font-family: courier new, courier, mono; font-size: 15px; background: transparent; border-top-width: 0px;	border-right-width: 0px; border-bottom-width: thin; border-left-width: 0px; border-top-style: none; border-right-style: none; border-bottom-style: solid; border-left-style: none; border-bottom-color: #00CC33; color: #00CC33;}
+.textbox60 {font-family: courier new, courier, mono; font-size: 15px; background: transparent; border-top-width: 0px;	border-right-width: 0px; border-bottom-width: thin; border-left-width: 0px; border-top-style: none; border-right-style: none; border-bottom-style: solid; border-left-style: none; border-bottom-color: #00CC33; color: #00CC33;}
+.textbox61 {font-family: courier new, courier, mono; font-size: 15px; background: transparent; border-top-width: 0px;	border-right-width: 0px; border-bottom-width: thin; border-left-width: 0px; border-top-style: none; border-right-style: none; border-bottom-style: solid; border-left-style: none; border-bottom-color: #00CC33; color: #00CC33;}
+.textbox62 {font-family: courier new, courier, mono; font-size: 15px; background: transparent; border-top-width: 0px;	border-right-width: 0px; border-bottom-width: thin; border-left-width: 0px; border-top-style: none; border-right-style: none; border-bottom-style: solid; border-left-style: none; border-bottom-color: #00CC33; color: #00CC33;}
+.textbox63 {font-family: courier new, courier, mono; font-size: 15px; background: transparent; border-top-width: 0px;	border-right-width: 0px; border-bottom-width: thin; border-left-width: 0px; border-top-style: none; border-right-style: none; border-bottom-style: solid; border-left-style: none; border-bottom-color: #00CC33; color: #00CC33;}
