@@ -21,9 +21,9 @@ $(function(){
     
     $(document).keydown( function (e){
     	var k = e.keyCode;
-        if (k == 16){
-            SHIFT = true;
-        }
+       // if (k == 16){
+        //    SHIFT = true;
+      //  }
         
         if (k == 17){  // Enter mapped to CTRL
             CTRL = true;
@@ -35,7 +35,7 @@ $(function(){
         			}
         	else
         	{
-		        if(SHIFT){
+		        if(e.shiftKey){
 		        	
 		         	if(k==27) {
 		    			document.DS5250.TnKey.Value = "sysreq";
@@ -44,7 +44,7 @@ $(function(){
 		         		document.DS5250.PF.value = "PF" + ((k-111) + 12) ;
 		         	}
 		         	
-		         	SHIFT = false;// reset after setting the key
+		         	//SHIFT = false;// reset after setting the key
 		        } //SHIFT
 		    	else
 		    	{
