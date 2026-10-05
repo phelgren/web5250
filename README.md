@@ -1,4 +1,4 @@
-# web5250
+# web5250  (DEPRECATED - see web5250-ng)
 #### An HTML based 5250 emulator (tn5250j servlet)
 In 2002 I was in the process of designing an HTML based menuing system that would allow both HTML and 5250 applications to be launched. The HTML part was easy, but launching a 5250 application from an HTML menu was a bit more of a challenge. Not that there wasn't a great, open source, 5250 emulator available (there is, it's called tn5250j). It was just that in order to accommodate launching tn5250j from an HTML page, I needed to use an applet. Applets require a JVM and JVM's on the client can be an administrative hassle. So, with all that in mind, I started looking for an HTML based 5250 (or even telnet) open source client. As it turned out, I didn't have to go very far. The tn5250j project already had most of the infrastucture fleshed out and with some help (quite a bit, from Kenneth Pouncey, tn5250 project lead).
 
